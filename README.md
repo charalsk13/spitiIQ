@@ -59,6 +59,10 @@ npm run dev
 4. **Παρακολούθηση Πληρωμών** - Δείτε το status των πληρωμών ενοικίων
 5. **Ανάλυση Δεδομένων** - Δείτε τα analytics στο dashboard
 
+## 🔑 Credentials (Test)
+
+- **Username:** admin
+- **Password:** qwertychara
 
 ## 📱 API Endpoints
 
