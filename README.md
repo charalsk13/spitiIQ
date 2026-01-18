@@ -62,7 +62,7 @@ npm run dev
 ## 🔑 Credentials (Test)
 
 - **Username:** admin
-- **Password:** qwertychara
+- **Password:** 
 
 ## 📱 API Endpoints
 
